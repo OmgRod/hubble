@@ -1,5 +1,7 @@
 # Hubble
 
+# WARNING: This repository is archived. For the updated version, go to [hubble-sm/web](https://github.com/hubble-sm/web)
+
 ## Table of Contents
 
 - [About Hubble](#about-hubble)
